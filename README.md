@@ -105,7 +105,7 @@ Cài thêm các esset để chạy được agent này `.\winlogbeat.exe setup -
 ### Lab 03: Tấn công và SOAR
 
 ## Kết luận
-Nội dung chi tiết về thiết lập môi trường, cấu hình trên các máy, hướng dẫn sử dụng SIEM-ELK và kết quả của một số thử nghiệm trên môi trường ảo và phân tích kết quả được trình bày chi tiết trong tài liệu .docx đã tải lên trên repo này.
+Nội dung chi tiết về thiết lập môi trường, cấu hình trên các máy, hướng dẫn sử dụng SIEM-ELK, kết quả của một số thử nghiệm trên môi trường ảo và phân tích các kết quả ấy được trình bày chi tiết trong tài liệu .docx đã tải lên trên repo này.
 
 
 
